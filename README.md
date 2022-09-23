@@ -2,6 +2,8 @@
 
 All services you need
 
+Run flutter create to get all other files nedded in the folder
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
